@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20202.20.0721.1350                               -->
+<workbook original-version='18.1' source-build='2020.2.4 (20202.20.0721.1350)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='indicadores_final (tcc_fernando)' inline='true' name='federated.1w2aydj1ycp4rl17di7rm198uls2' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='localhost' name='postgres.0h7ue0a0neav7m19mietv04u1sfd'>
+            <connection authentication='username-password' class='postgres' dbname='tcc_fernando' odbc-native-protocol='' one-time-sql='' port='5434' server='localhost' username='fernando' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='postgres.0h7ue0a0neav7m19mietv04u1sfd' name='indicadores_final' table='[public].[indicadores_final]' type='table' />
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='postgres.0h7ue0a0neav7m19mietv04u1sfd' name='indicadores_final' table='[public].[indicadores_final]' type='table' />
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>time</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[time]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>time</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ano</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[ano]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>ano</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>rodada</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[rodada]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>rodada</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>data_confronto</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[data_confronto]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>data_confronto</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_TYPE_DATE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_TYPE_DATE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>local</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[local]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>local</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gol</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[gol]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>gol</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>razao_vitoria</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[razao_vitoria]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>razao_vitoria</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>17</precision>
+            <scale>4</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>razao_empate</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[razao_empate]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>razao_empate</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>17</precision>
+            <scale>4</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>razao_derrota</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[razao_derrota]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>razao_derrota</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>17</precision>
+            <scale>4</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>media_gols</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[media_gols]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>media_gols</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>17</precision>
+            <scale>4</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>media_gols_sofridos</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[media_gols_sofridos]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>media_gols_sofridos</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>17</precision>
+            <scale>4</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>expectativa_gols</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[expectativa_gols]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>expectativa_gols</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>17</precision>
+            <scale>4</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>forma</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[forma]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>forma</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>17</precision>
+            <scale>4</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>elo</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[elo]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>elo</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>17</precision>
+            <scale>4</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>exp_vitoria</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[exp_vitoria]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>exp_vitoria</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>tipo_vencedor</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[tipo_vencedor]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>tipo_vencedor</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>vitoria</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[vitoria]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>vitoria</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>vencedor</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[vencedor]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>vencedor</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pontos</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[pontos]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>pontos</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>28</precision>
+            <scale>6</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>preco</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[preco]</local-name>
+            <parent-name>[indicadores_final]</parent-name>
+            <remote-alias>preco</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>28</precision>
+            <scale>6</scale>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_NUMERIC&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_NUMERIC&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Tipo Vencedor Desc' datatype='string' name='[Calculation_1005991599809056768]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='if( [tipo_vencedor] = &apos;E&apos;) THEN &apos;Empate&apos;&#13;&#10;ELSEIF [tipo_vencedor] = &apos;V&apos; then &apos;Visitante&apos;&#13;&#10;ELSEIF  [tipo_vencedor] = &apos;M&apos; then &apos;Mandante&apos;&#13;&#10;END' />
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='indicadores_final' datatype='table' name='[__tableau_internal_object_id__].[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]' role='measure' type='quantitative' />
+      <column caption='Ano' datatype='integer' name='[ano]' role='dimension' type='quantitative' />
+      <column caption='Data Confronto' datatype='date' name='[data_confronto]' role='dimension' type='ordinal' />
+      <column caption='Elo' datatype='real' name='[elo]' role='measure' type='quantitative' />
+      <column caption='Exp Vitoria' datatype='string' name='[exp_vitoria]' role='dimension' type='nominal' />
+      <column caption='Expectativa Gols' datatype='real' name='[expectativa_gols]' role='measure' type='quantitative' />
+      <column caption='Forma' datatype='real' name='[forma]' role='measure' type='quantitative' />
+      <column caption='Gol' datatype='integer' name='[gol]' role='measure' type='quantitative' />
+      <column caption='Local' datatype='string' name='[local]' role='dimension' type='nominal' />
+      <column caption='Media Gols' datatype='real' name='[media_gols]' role='measure' type='quantitative' />
+      <column caption='Media Gols Sofridos' datatype='real' name='[media_gols_sofridos]' role='measure' type='quantitative' />
+      <column caption='Pontos' datatype='real' name='[pontos]' role='measure' type='quantitative' />
+      <column caption='Preco' datatype='real' name='[preco]' role='measure' type='quantitative' />
+      <column caption='Razao Empate' datatype='real' name='[razao_empate]' role='measure' type='quantitative' />
+      <column caption='Razao Vitoria' datatype='real' name='[razao_vitoria]' role='measure' type='quantitative' />
+      <column caption='Rodada' datatype='integer' name='[rodada]' role='measure' type='quantitative' />
+      <column caption='Time' datatype='string' name='[time]' role='dimension' type='nominal' />
+      <column caption='Tipo Vencedor' datatype='string' name='[tipo_vencedor]' role='dimension' type='nominal' />
+      <column caption='Vencedor' datatype='string' name='[vencedor]' role='dimension' type='nominal' />
+      <column aggregation='CountD' caption='Vitoria' datatype='integer' name='[vitoria]' role='measure' type='quantitative' />
+      <column-instance column='[tipo_vencedor]' derivation='None' name='[none:tipo_vencedor:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:tipo_vencedor:nk]' type='palette'>
+            <map to='#59a14f'>
+              <bucket>&quot;M&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;V&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;E&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Brazil&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='indicadores_final' id='indicadores_final_CB44BFD4DE27428DA48D3149A709A93C'>
+            <properties context=''>
+              <relation connection='postgres.0h7ue0a0neav7m19mietv04u1sfd' name='indicadores_final' table='[public].[indicadores_final]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Planilha 7'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='indicadores_final (tcc_fernando)' name='federated.1w2aydj1ycp4rl17di7rm198uls2' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1w2aydj1ycp4rl17di7rm198uls2'>
+            <column caption='Tipo Vencedor Desc' datatype='string' name='[Calculation_1005991599809056768]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='if( [tipo_vencedor] = &apos;E&apos;) THEN &apos;Empate&apos;&#13;&#10;ELSEIF [tipo_vencedor] = &apos;V&apos; then &apos;Visitante&apos;&#13;&#10;ELSEIF  [tipo_vencedor] = &apos;M&apos; then &apos;Mandante&apos;&#13;&#10;END' />
+            </column>
+            <_.fcp.ObjectModelTableType.false...column caption='indicadores_final' datatype='integer' name='[__tableau_internal_object_id__].[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:indicadores_final_CB44BFD4DE27428DA48D3149A709A93C:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='indicadores_final' datatype='table' name='[__tableau_internal_object_id__].[indicadores_final_CB44BFD4DE27428DA48D3149A709A93C]' role='measure' type='quantitative' />
+            <column caption='Local' datatype='string' name='[local]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_1005991599809056768]' derivation='None' name='[none:Calculation_1005991599809056768:nk]' pivot='key' type='nominal' />
+            <column-instance column='[local]' derivation='None' name='[none:local:nk]' pivot='key' type='nominal' />
+            <column-instance column='[tipo_vencedor]' derivation='None' name='[none:tipo_vencedor:nk]' pivot='key' type='nominal' />
+            <column caption='Tipo Vencedor' datatype='string' name='[tipo_vencedor]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk]'>
+            <groupfilter function='member' level='[none:local:nk]' member='&quot;C&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1w2aydj1ycp4rl17di7rm198uls2].[__tableau_internal_object_id__].[cnt:indicadores_final_CB44BFD4DE27428DA48D3149A709A93C:qk]' scope='cols' value='Total Vitória' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:tipo_vencedor:nk]' value='116' />
+            <format attr='width' field='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:Calculation_1005991599809056768:nk]' value='100' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:tipo_vencedor:nk]' />
+              <text column='[federated.1w2aydj1ycp4rl17di7rm198uls2].[__tableau_internal_object_id__].[cnt:indicadores_final_CB44BFD4DE27428DA48D3149A709A93C:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk] / [federated.1w2aydj1ycp4rl17di7rm198uls2].[none:Calculation_1005991599809056768:nk])</rows>
+        <cols>[federated.1w2aydj1ycp4rl17di7rm198uls2].[__tableau_internal_object_id__].[cnt:indicadores_final_CB44BFD4DE27428DA48D3149A709A93C:qk]</cols>
+      </table>
+      <simple-id uuid='{F3EE1E1C-F4F4-4F6C-91F9-2A4018E2F1F6}' />
+    </worksheet>
+    <worksheet name='Planilha 7 (2)'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='indicadores_final (tcc_fernando)' name='federated.1w2aydj1ycp4rl17di7rm198uls2' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1w2aydj1ycp4rl17di7rm198uls2'>
+            <column caption='Tipo Vencedor Desc' datatype='string' name='[Calculation_1005991599809056768]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='if( [tipo_vencedor] = &apos;E&apos;) THEN &apos;Empate&apos;&#13;&#10;ELSEIF [tipo_vencedor] = &apos;V&apos; then &apos;Visitante&apos;&#13;&#10;ELSEIF  [tipo_vencedor] = &apos;M&apos; then &apos;Mandante&apos;&#13;&#10;END' />
+            </column>
+            <column caption='Gol' datatype='integer' name='[gol]' role='measure' type='quantitative' />
+            <column caption='Local' datatype='string' name='[local]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_1005991599809056768]' derivation='None' name='[none:Calculation_1005991599809056768:nk]' pivot='key' type='nominal' />
+            <column-instance column='[local]' derivation='None' name='[none:local:nk]' pivot='key' type='nominal' />
+            <column-instance column='[tipo_vencedor]' derivation='None' name='[none:tipo_vencedor:nk]' pivot='key' type='nominal' />
+            <column-instance column='[gol]' derivation='Sum' name='[sum:gol:qk]' pivot='key' type='quantitative' />
+            <column caption='Tipo Vencedor' datatype='string' name='[tipo_vencedor]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk]'>
+            <groupfilter function='member' level='[none:local:nk]' member='&quot;C&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:tipo_vencedor:nk]' value='116' />
+            <format attr='width' field='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk]' value='64' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:tipo_vencedor:nk]' />
+              <text column='[federated.1w2aydj1ycp4rl17di7rm198uls2].[sum:gol:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk] / [federated.1w2aydj1ycp4rl17di7rm198uls2].[none:Calculation_1005991599809056768:nk])</rows>
+        <cols>[federated.1w2aydj1ycp4rl17di7rm198uls2].[sum:gol:qk]</cols>
+      </table>
+      <simple-id uuid='{44AFC873-D05E-4EF5-8F47-BD3D8300F8E1}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Planilha 7'>
+      <cards>
+        <edge name='left'>
+          <strip size='191'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='170'>
+            <card pane-specification-id='0' param='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:tipo_vencedor:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:Calculation_1005991599809056768:nk]</field>
+            <field>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:ano:qk]</field>
+            <field>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk]</field>
+            <field>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:tipo_vencedor:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{5DBF9221-4FFC-46C3-86ED-3F045C4620E8}' />
+    </window>
+    <window class='worksheet' name='Planilha 7 (2)'>
+      <cards>
+        <edge name='left'>
+          <strip size='191'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='170'>
+            <card pane-specification-id='2' param='[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:tipo_vencedor:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:Calculation_1005991599809056768:nk]</field>
+            <field>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:ano:qk]</field>
+            <field>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:local:nk]</field>
+            <field>[federated.1w2aydj1ycp4rl17di7rm198uls2].[none:tipo_vencedor:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{22D2E097-02B4-404A-8A3A-6F603DD7A30A}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='139' name='Planilha 7' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='139' name='Planilha 7 (2)' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>

@@ -1,0 +1,776 @@
+atletas.apelido,atletas.rodada_id,atletas.pontos_num,atletas.preco_num,atletas.clube.id.full.name
+Jairinho,9,1.9,2.89,Vasco
+Lucas Halter,9,0.0,2.64,Athlético-PR
+Guilherme Nunes,9,0.0,2.0,Santos
+Gabriel Calabres,9,0.0,2.0,Santos
+Vitinho,9,0.0,1.22,Athlético-PR
+Gabriel,9,0.0,1.0,Athlético-PR
+Vitor Eudes,9,0.0,2.0,Cruzeiro
+Bruno Leite,9,0.0,2.0,Athlético-PR
+Braian Romero,9,0.0,4.85,Athlético-PR
+Iury,9,0.0,6.76,Avaí
+Toró,9,-1.1,4.08,São Paulo
+Papagaio,9,0.0,1.45,Atlético-MG
+Marcinho,9,0.0,1.0,Avaí
+Caio Paulista,9,1.2,2.87,Avaí
+Cacá,9,0.0,2.0,Cruzeiro
+Victor Paraíba,9,4.1,2.2,CSA
+Araos,9,0.0,4.0,Corinthians
+Helinho,9,0.0,3.96,São Paulo
+Thiaguinho,9,0.0,3.0,Corinthians
+Figueira,9,0.0,1.0,Goiás
+Vital,9,0.0,1.0,CSA
+Jonathan,9,0.0,1.87,Botafogo
+Yago Darub,9,0.0,1.0,Flamengo
+Fernando Castro,9,0.0,2.0,Bahia
+Nathan,9,-5.4,1.44,Fortaleza
+Hulk,9,0.0,3.0,Atlético-MG
+Moresche,9,0.0,2.0,Vasco
+Dudu,9,0.0,3.0,Vasco
+Rodrigo Fernandes,9,0.0,2.0,Vasco
+Romarinho Gouveia,9,0.0,1.0,Fortaleza
+Gabriel Poveda,9,0.0,2.0,Athlético-PR
+Yann Rolim,9,0.0,4.0,Chapecoense
+Terans,9,0.0,5.0,Atlético-MG
+Zé Ricardo,9,0.0,1.0,Fluminense
+Rhuan,9,0.0,1.0,Botafogo
+Régis,9,0.0,4.34,Chapecoense
+Felipe Sousa,9,0.0,1.0,Atlético-MG
+Tharlis,9,0.0,3.43,Chapecoense
+Luan,9,-1.8,2.71,São Paulo
+Antonini,9,0.0,1.0,Grêmio
+Vini Locatelli,9,0.0,1.0,Chapecoense
+Éderson,9,0.0,2.0,Cruzeiro
+Andrew,9,0.0,2.0,Botafogo
+Mateus Gonçalves,9,1.5,2.41,Ceará
+Ney Franco,9,3.89,8.8,Chapecoense
+Yuri ,9,0.0,2.0,Flamengo
+Kaio Jorge,9,0.0,0.75,Santos
+Ignácio,9,0.0,2.0,Bahia
+Michel,9,0.0,2.0,Cruzeiro
+Marcos Paulo,9,2.7,3.49,Fluminense
+Júnior,9,0.0,1.0,São Paulo
+Kaique Rocha,9,0.0,2.0,Santos
+Anderson Ceará,9,0.0,1.0,Santos
+Neto,9,0.0,1.0,Atlético-MG
+Bruno Méndez,9,2.3,5.31,Corinthians
+João Pedro,9,1.7,4.94,Fluminense
+Walce,9,0.0,3.67,São Paulo
+André,9,0.0,1.0,Botafogo
+Carlos Miguel,9,0.0,1.0,Internacional
+Alessandro,9,0.0,1.0,Botafogo
+Roberto,9,1.0,2.67,Internacional
+Pedro Lucas,9,0.0,4.0,Internacional
+Gerson,9,4.5,5.4,CSA
+Matheus Stockl,9,0.0,1.0,Atlético-MG
+Bruno Fuchs,9,0.0,2.0,Internacional
+Jaques,9,0.0,1.0,Bahia
+Falcão,9,0.0,2.0,Avaí
+João Lucas,9,4.7,2.61,Flamengo
+João Victor,9,0.0,2.0,Corinthians
+Rodrigo,9,0.0,1.0,Avaí
+Dudu,9,0.0,1.0,Avaí
+Nuno,9,0.0,2.0,Avaí
+Gabriel,9,0.0,1.0,Atlético-MG
+Gustavo Coutinho,9,0.0,1.0,Fortaleza
+Antony,9,0.0,11.31,São Paulo
+Igor Reis,9,0.0,1.0,Atlético-MG
+João Vitor,9,0.0,1.0,Avaí
+Rick,9,0.0,1.83,Ceará
+Julian,9,0.0,2.0,Avaí
+Lucas Dias,9,0.0,2.0,CSA
+Caíque,9,0.0,2.0,Bahia
+Sandry,9,0.0,1.0,Santos
+Darlan,9,-0.3,0.75,Grêmio
+Hélio Júnior,9,0.0,1.0,Atlético-MG
+Lucas Barros,9,1.5,1.08,Botafogo
+Tiago Reis,9,-1.8,3.91,Vasco
+Douglas Borel,9,0.0,1.0,Bahia
+Weverton,9,0.0,2.0,Cruzeiro
+Brizuela,9,0.0,6.71,Avaí
+Lucas Alves,9,0.0,1.0,Botafogo
+Heitor,9,0.0,1.0,Internacional
+Vinícius,9,0.0,1.0,Goiás
+Gerson Júnior,9,0.0,0.75,CSA
+Wagner Leonardo,9,0.0,1.0,Santos
+Bruninho,9,0.0,2.0,Santos
+Talison,9,0.0,1.0,Fortaleza
+Igo,9,0.0,1.0,CSA
+Khellven ,9,0.0,1.64,Athlético-PR
+Luiz Fernando,9,0.0,2.0,Athlético-PR
+Reinier,9,0.0,3.0,Flamengo
+Raphael Lopes,9,0.0,1.0,Atlético-MG
+Vinícius Popó,9,0.0,2.0,Cruzeiro
+Vinícius,9,0.0,2.0,Flamengo
+Bill,9,0.0,0.73,Flamengo
+Mano Menezes,9,0.81,9.07,Cruzeiro
+Heron,9,0.0,1.0,Goiás
+Iago Mendonça,9,0.0,1.0,Goiás
+Diguinho,9,0.0,2.0,Fortaleza
+Rafael Barbosa,9,0.0,1.0,Goiás
+Filipe Trindade,9,0.0,1.0,Goiás
+Alan,9,0.0,1.0,Goiás
+Alexander,9,0.0,9.79,Vasco
+Roni,9,0.0,2.0,Corinthians
+Felipe Mosquete,9,0.0,1.0,Goiás
+Riquelme,9,0.0,1.0,Vasco
+Miguel,9,0.0,3.0,Fluminense
+Lucas Piton,9,0.0,1.0,Corinthians
+Mauricio,9,0.0,1.0,Cruzeiro
+Geovane,9,0.0,1.0,Athlético-PR
+Morato,9,0.0,1.0,São Paulo
+Luan,9,0.0,1.0,Fluminense
+Gabriel Fornari,9,0.0,1.0,Athlético-PR
+Talles,9,0.0,0.78,Vasco
+Da Silva,9,0.0,1.0,Grêmio
+Guilherme Azevedo,9,0.0,1.0,Grêmio
+Edu,9,0.0,1.0,Cruzeiro
+Iván Angulo,9,0.0,4.0,Palmeiras
+Bento,9,0.0,1.0,Athlético-PR
+Ramires,9,-2.2,10.28,Bahia
+Betão,9,0.0,3.14,Avaí
+Luis Henrique ,9,0.0,1.0,Botafogo
+João Celeri,9,0.0,1.0,Corinthians
+Edu Dracena,9,6.3,7.22,Palmeiras
+Fábio,9,-1.0,9.68,Cruzeiro
+Alecsandro,9,0.0,7.0,CSA
+Jonathan,9,-0.3,3.68,Athlético-PR
+Henrique,9,6.0,7.61,Cruzeiro
+Cícero,9,4.5,13.37,Botafogo
+Fernando Henrique,9,0.0,4.0,Ceará
+Léo Moura,9,0.0,6.12,Grêmio
+Marcelo Boeck,9,0.0,3.31,Fortaleza
+Edinho,9,0.0,1.89,Ceará
+Rafael Sobis,9,18.6,9.26,Internacional
+Anderson,9,0.0,2.08,Bahia
+Fernando Prass,9,0.0,8.0,Palmeiras
+Rafinha,9,0.0,10.0,Flamengo
+Maicon,9,0.0,8.35,Grêmio
+Fred,9,0.0,5.34,Cruzeiro
+Fábio Santos,9,2.5,10.45,Atlético-MG
+Diego Tardelli,9,1.0,8.23,Grêmio
+Thiago Neves,9,1.4,8.04,Cruzeiro
+Jadson,9,-0.3,3.41,Corinthians
+Márcio Araújo,9,1.7,8.85,Chapecoense
+Thiago Heleno,9,0.0,1.27,Athlético-PR
+Diego Cavalieri,9,1.0,5.46,Botafogo
+Wellington Paulista,9,0.0,10.59,Fortaleza
+Carlinhos,9,1.7,5.91,CSA
+Leandro Castan,9,0.0,11.0,Vasco
+Daniel Marcos,9,0.0,1.0,Corinthians
+Diego Alves,9,0.0,7.78,Flamengo
+Dodô,9,-0.8,5.13,Cruzeiro
+Marquinhos Silva,9,0.0,6.52,Avaí
+Felipe Melo,9,0.3,6.49,Palmeiras
+Nilton,9,-0.3,2.91,CSA
+Hernanes,9,3.4,13.65,São Paulo
+Douglas,9,-0.9,5.2,Avaí
+Diego,9,0.0,5.31,Flamengo
+Matheus Ferraz,9,0.0,6.23,Fluminense
+Vagner Love,9,-0.1,3.72,Corinthians
+Nenê,9,6.4,6.55,São Paulo
+Renato,9,0.0,5.74,Chapecoense
+Ricardo Oliveira,9,1.7,14.33,Atlético-MG
+Egídio,9,0.0,9.55,Cruzeiro
+Willian,9,0.0,10.0,Palmeiras
+Vanderlei Luxemburgo,9,5.49,7.82,Vasco
+Renato Gaúcho,9,4.43,11.49,Grêmio
+André Moritz,9,0.0,3.64,Avaí
+Osvaldo,9,0.0,4.79,Fortaleza
+Amaral,9,0.0,3.47,Chapecoense
+Márcio Azevedo,9,0.0,4.16,Athlético-PR
+Madson,9,0.0,6.21,CSA
+Cuca,9,2.73,9.27,São Paulo
+Cássio,9,0.0,8.71,Corinthians
+Bruno,9,0.0,5.46,Internacional
+Rhodolfo,9,0.0,4.63,Flamengo
+Tião,9,0.0,1.0,Fortaleza
+Fagner,9,0.0,15.29,Corinthians
+Júlio César,9,0.0,6.05,Grêmio
+Luiz Felipe Scolari,9,7.3,12.61,Palmeiras
+Ernando,9,0.0,10.78,Bahia
+Alexandre Pato,9,9.2,9.1,São Paulo
+Ramires,9,0.0,10.0,Palmeiras
+Adilson,9,9.1,8.75,Atlético-MG
+Everton,9,0.0,7.38,São Paulo
+Guilherme,9,0.0,3.31,Fluminense
+David Braz,9,0.0,7.0,Grêmio
+Hudson,9,2.6,11.4,São Paulo
+Elicarlos,9,2.7,5.19,Chapecoense
+Kayke,9,13.3,9.02,Goiás
+Breno,9,0.0,6.0,Vasco
+Marcelo Oliveira,9,0.0,5.0,Grêmio
+Marquinho,9,0.0,6.0,Vasco
+Eduardo,9,0.0,9.19,Chapecoense
+Pedro Ken,9,0.0,3.17,Ceará
+Rafael Pereira,9,0.0,5.26,Chapecoense
+Henrique,9,-0.5,6.9,Corinthians
+Léo,9,-3.5,6.61,Cruzeiro
+Thiago Carleto,9,0.0,7.44,Ceará
+Roger Carvalho,9,0.0,3.87,Fortaleza
+Apodi,9,-2.0,3.55,CSA
+Walter,9,0.7,7.05,Corinthians
+Everton Ribeiro,9,13.1,13.86,Flamengo
+Tiago Alves,9,0.0,6.0,Ceará
+Ralf,9,7.2,11.05,Corinthians
+Réver,9,10.0,12.55,Atlético-MG
+Gilson,9,-0.5,4.47,Botafogo
+Victor,9,-2.3,6.56,Atlético-MG
+Bruno César,9,0.0,7.32,Vasco
+Elias,9,1.8,9.75,Atlético-MG
+Derley,9,1.5,4.08,Fortaleza
+Uendel,9,0.4,2.83,Internacional
+Anderson Martins,9,0.5,2.8,São Paulo
+Patric,9,-3.7,3.03,Atlético-MG
+Rodriguinho,9,0.0,5.52,Cruzeiro
+Camacho,9,0.0,4.3,Athlético-PR
+Gilberto,9,0.0,17.49,Bahia
+Carlos Cesar,9,0.0,4.0,Atlético-MG
+Evandro,9,0.0,6.0,Santos
+Fernandão,9,11.1,8.47,Bahia
+Fabrício,9,0.0,1.0,CSA
+Airton,9,0.0,1.57,Fluminense
+Camilo,9,8.6,7.36,Chapecoense
+Jean,9,0.0,6.0,Palmeiras
+Robinho,9,-5.1,6.26,Cruzeiro
+Pará,9,0.0,5.42,Flamengo
+Leandro Souza,9,-1.6,2.5,CSA
+Vanderlei,9,0.0,22.89,Santos
+Walter,9,0.0,5.0,Goiás
+Enderson Moreira,9,3.05,10.6,Ceará
+Marcos Rocha,9,15.4,18.99,Palmeiras
+Maicon,9,1.2,6.16,Atlético-MG
+Werley,9,0.0,0.75,Vasco
+Ganso,9,6.2,8.78,Fluminense
+D'Alessandro,9,8.2,8.08,Internacional
+Wellington,9,-3.3,0.75,Athlético-PR
+Willian Farias,9,0.0,3.0,São Paulo
+Rodolfo,9,0.0,2.22,Fluminense
+Alan Ruschel,9,0.0,5.57,Chapecoense
+Carlinhos,9,10.1,6.82,Fortaleza
+Douglas,9,1.1,2.25,Chapecoense
+Jucilei,9,0.0,8.0,São Paulo
+Moisés,9,-0.3,5.57,Palmeiras
+Didira,9,0.9,6.04,CSA
+Edenílson,9,2.6,8.79,Internacional
+Luan,9,7.1,8.8,Atlético-MG
+Everaldo,9,9.4,17.73,Chapecoense
+Rodrigo Moledo,9,0.0,7.09,Internacional
+Dedé,9,-1.4,14.72,Cruzeiro
+André,9,-1.8,8.46,Grêmio
+Bergson,9,0.0,4.48,Ceará
+Edílson,9,0.0,6.2,Cruzeiro
+Rafael Galhardo,9,0.0,3.0,Grêmio
+Bruno Silva,9,0.0,9.58,Fluminense
+Paulo Miranda,9,0.0,5.0,Grêmio
+Rithely,9,0.0,5.23,Internacional
+Paulo Victor,9,6.8,6.63,Grêmio
+Marcelo Lomba,9,-2.0,9.95,Internacional
+Nino Paraíba,9,4.5,12.31,Bahia
+Ramon,9,0.0,5.0,Vasco
+Digão,9,0.0,7.0,Fluminense
+Rodrigo Pimpão,9,0.0,1.04,Botafogo
+Wellington Silva,9,0.2,4.55,Internacional
+Rafael,9,0.0,4.02,Cruzeiro
+Diego Souza,9,-0.8,4.58,Botafogo
+Dudu,9,2.6,17.39,Palmeiras
+Uribe,9,0.0,5.26,Santos
+Gil,9,0.0,11.0,Corinthians
+Gum,9,3.5,7.04,Chapecoense
+Leonardo Silva,9,0.0,4.88,Atlético-MG
+Marinho,9,2.7,6.2,Santos
+Giovanni Augusto,9,6.2,4.67,Goiás
+Kieza,9,0.0,4.06,Fortaleza
+Santos,9,-1.3,5.25,Athlético-PR
+João Carlos,9,0.0,0.69,CSA
+Neto,9,0.0,2.0,Chapecoense
+Ernandes,9,2.6,2.32,Chapecoense
+Ronaldo Alves,9,0.0,6.0,CSA
+Manoel,9,-0.1,10.08,Corinthians
+Marcelo Cirino,9,4.2,7.64,Athlético-PR
+Vladimir,9,2.0,5.45,Avaí
+Muriel,9,0.0,4.0,Fluminense
+Pablo,9,0.0,17.0,São Paulo
+Danilo Fernandes,9,0.0,7.0,Internacional
+Paulo Roberto,9,0.0,4.06,Fortaleza
+Léo,9,0.0,4.0,Avaí
+Gamarra,9,0.0,8.0,CSA
+Nikão,9,1.3,16.48,Athlético-PR
+Ricardo Bueno,9,0.0,17.39,CSA
+Boselli,9,0.0,3.06,Corinthians
+Romulo,9,0.9,5.03,Grêmio
+Fellipe Bastos,9,0.0,4.34,Vasco
+Sidão,9,0.0,4.29,Vasco
+Eduardo Sasha,9,9.7,18.02,Santos
+Alan Santos,9,0.0,3.28,Botafogo
+Fábio Carille,9,1.22,10.37,Corinthians
+Jorge Sampaoli,9,6.12,12.18,Santos
+Victor Ferraz,9,5.1,9.85,Santos
+Marllon,9,0.0,5.51,Bahia
+Joao Rojas,9,0.0,7.0,São Paulo
+Diogo Barbosa,9,16.7,15.57,Palmeiras
+Jackson,9,-0.1,4.48,Bahia
+Marquinhos Gabriel,9,0.0,3.43,Cruzeiro
+Leo,9,0.0,3.0,Athlético-PR
+Wescley,9,0.0,5.0,Ceará
+Augusto,9,0.0,4.0,Chapecoense
+Vinícius,9,0.0,3.32,Atlético-MG
+Bruno Henrique,9,8.3,12.52,Palmeiras
+Léo Cittadini,9,0.0,5.82,Athlético-PR
+Bryan Ruíz,9,0.0,4.0,Santos
+Felipe Baxola,9,1.5,4.58,Ceará
+Jorge Jesus,9,0.0,12.52,Flamengo
+Lucho González,9,1.5,5.75,Athlético-PR
+Fernando Miguel,9,5.2,7.04,Vasco
+Kelvin,9,0.0,3.72,Fluminense
+Fábio Sanches,9,0.0,3.0,Goiás
+Weverton,9,8.5,15.48,Palmeiras
+Raúl Cáceres,9,0.0,3.12,Vasco
+Geovane,9,2.4,4.3,Goiás
+Gustavo Gómez,9,0.0,15.32,Palmeiras
+Diogo Silva,9,13.0,11.39,Ceará
+Manga Escobar,9,0.0,4.0,CSA
+Elton,9,3.6,5.11,Bahia
+Cuéllar,9,0.0,13.77,Flamengo
+Thiago Galhardo,9,0.4,9.79,Ceará
+Juninho,9,5.4,6.04,Fortaleza
+Tiago Volpi,9,10.2,10.44,São Paulo
+Juninho Quixadá,9,0.0,5.0,Ceará
+Júnior Urso,9,1.7,6.7,Corinthians
+Michel,9,5.7,5.27,Grêmio
+Agenor,9,4.0,2.7,Fluminense
+João Paulo,9,1.3,7.75,Botafogo
+Vitinho,9,12.2,10.51,Flamengo
+Bruno Cortez,9,0.0,5.59,Grêmio
+Danilo Avelar,9,-2.8,6.22,Corinthians
+Éverson,9,3.8,7.36,Santos
+Rodrigo Lindoso,9,11.9,10.56,Internacional
+Jailson,9,0.0,8.0,Palmeiras
+Renê Júnior,9,0.0,7.0,Corinthians
+Gustavo Campanharo,9,1.8,3.79,Chapecoense
+Felipe Alves,9,0.7,7.08,Fortaleza
+Luiz Otávio,9,1.2,10.05,Ceará
+Benítez,9,0.0,6.0,CSA
+Celsinho,9,2.6,3.86,CSA
+Fernando Diniz,9,0.62,5.9,Fluminense
+Argel Fucks,9,0.0,5.21,CSA
+Éderson,9,0.0,6.0,Fortaleza
+Rafael Vaz,9,-7.0,9.44,Goiás
+Julinho,9,4.3,2.43,Avaí
+Amaral,9,0.0,4.0,CSA
+Bruno Alves,9,1.0,6.51,São Paulo
+Glédson,9,0.0,3.0,Avaí
+Marco Ruben,9,1.4,14.97,Athlético-PR
+Maranhão,9,0.0,3.09,CSA
+Rogério,9,4.3,9.4,Bahia
+Marcos Vinícius,9,0.0,5.0,Chapecoense
+Gilberto,9,1.0,2.47,Goiás
+Jean Cléber,9,0.0,3.0,CSA
+Bruno Peres,9,0.0,5.0,São Paulo
+Geuvânio,9,4.0,12.5,Atlético-MG
+Rodrigo Caio,9,5.3,9.36,Flamengo
+Alison,9,2.1,4.7,Santos
+Rodinei,9,6.4,3.91,Flamengo
+Matheus Barbosa,9,1.3,3.8,Avaí
+Gatito Fernández,9,0.0,7.8,Botafogo
+Paolo Guerrero,9,0.0,14.5,Internacional
+Claudio Winck,9,0.0,4.01,Vasco
+Élber,9,0.0,5.51,Bahia
+Guerra,9,0.0,5.0,Bahia
+Auremir,9,0.0,4.23,Ceará
+Eduardo Barroca,9,1.53,7.59,Botafogo
+Yago,9,-0.6,2.97,Goiás
+Derlis González,9,0.0,0.74,Santos
+William Pottker,9,0.0,7.2,Internacional
+Madson,9,0.2,3.78,Athlético-PR
+Copete,9,0.0,4.56,Santos
+César,9,8.0,6.1,Flamengo
+Vagner,9,0.0,4.0,Chapecoense
+Gustavo Henrique,9,2.0,5.94,Santos
+João Lucas,9,4.1,10.13,Ceará
+Cassiano,9,-0.8,3.12,CSA
+Luciano Castán,9,0.0,4.56,CSA
+Alex Amado,9,0.0,2.0,Ceará
+Renê,9,5.0,7.82,Flamengo
+Willian Arão,9,1.8,13.23,Flamengo
+Marcos,9,0.0,3.0,Goiás
+Paulinho,9,0.0,2.31,Avaí
+Jean Mota,9,0.0,11.55,Santos
+Douglas Friedrich,9,9.0,12.41,Bahia
+Gabriel,9,0.0,7.0,Corinthians
+Eduardo Brock,9,0.0,4.0,Ceará
+Claudinei Oliveira,9,4.42,8.69,Goiás
+Ramiro,9,1.8,10.95,Corinthians
+Richard,9,0.0,4.73,Ceará
+Thiago Santos,9,-0.3,4.65,Palmeiras
+Naldo,9,0.0,3.23,CSA
+Rodrigo Dourado,9,0.0,7.12,Internacional
+Luiz Felipe,9,7.0,6.77,Santos
+Pedro Castro,9,-0.9,3.5,Avaí
+Reinaldo,9,0.5,11.49,São Paulo
+Moisés Ribeiro,9,0.0,3.0,Chapecoense
+Romário Rodrigues,9,1.0,1.76,Ceará
+Romero,9,0.0,4.0,Fortaleza
+Víctor Cuesta,9,3.0,13.35,Internacional
+Roger Machado ,9,4.13,10.86,Bahia
+Antônio Carlos ,9,6.5,8.16,Palmeiras
+Samuel Xavier,9,-0.5,12.49,Ceará
+Sassá,9,9.2,7.37,Cruzeiro
+Edinho,9,0.0,8.44,Fortaleza
+Yago Pikachu,9,0.4,9.25,Vasco
+Brenner,9,0.0,4.52,Avaí
+Lucas Fonseca,9,-0.6,4.86,Bahia
+Fabiano,9,0.0,4.0,Palmeiras
+Jadson,9,2.7,3.67,Cruzeiro
+Patrick Fabiano,9,-1.1,4.95,CSA
+Luciano,9,0.0,6.83,Fluminense
+Alexandre Cajuru,9,0.0,3.0,CSA
+Gilberto ,9,0.0,6.14,Fluminense
+Ezequiel ,9,0.0,4.11,Bahia
+Arthur Caíke,9,7.5,11.43,Bahia
+Ariel Cabral,9,0.5,2.68,Cruzeiro
+Fabinho,9,3.2,6.52,Ceará
+Lucas Lima,9,1.4,5.08,Palmeiras
+Matheus Inácio,9,0.0,2.0,Fortaleza
+Renatinho,9,2.5,2.66,Goiás
+Michel,9,0.0,3.17,Corinthians
+Pedro Geromel,9,0.0,14.75,Grêmio
+Joílson,9,0.0,2.0,Chapecoense
+Luan,9,0.0,10.57,Palmeiras
+Marlone,9,3.5,6.39,Goiás
+Jair,9,0.0,6.73,Atlético-MG
+Mayke,9,0.0,10.0,Palmeiras
+Oswaldo Henríquez,9,10.4,4.39,Vasco
+Carlos Sánchez,9,-0.4,11.11,Santos
+Cazares,9,7.1,11.17,Atlético-MG
+Bruno Nazário,9,6.2,3.3,Athlético-PR
+Clayton,9,0.0,5.0,Bahia
+Rossi,9,3.5,5.06,Vasco
+Igor Julião,9,-4.1,2.38,Fluminense
+Alisson,9,2.5,6.86,Grêmio
+Tadeu,9,6.4,13.55,Goiás
+João Ricardo,9,0.0,6.0,Chapecoense
+Cueva,9,0.0,6.83,Santos
+Gegê,9,-0.3,3.23,Avaí
+Zé Rafael,9,6.8,10.48,Palmeiras
+Chico,9,0.0,4.27,Ceará
+Alan Costa,9,0.0,3.0,CSA
+Tinga,9,-0.8,0.75,Fortaleza
+Matheus Galdezani,9,0.0,5.0,Internacional
+Erik,9,-0.1,9.55,Botafogo
+Léo Artur,9,0.0,1.99,Fluminense
+Marcelo Hermes,9,0.0,3.14,Goiás
+Marcelo Rangel,9,0.0,4.0,Goiás
+Victor Rangel,9,0.0,3.0,Botafogo
+Vinícius Araújo,9,0.0,2.0,Vasco
+Régis,9,0.0,3.81,Corinthians
+Daniel Amorim,9,0.4,5.83,Avaí
+Otero,9,0.0,8.0,Atlético-MG
+Cristovam,9,0.0,3.0,Ceará
+Matheus Ribeiro,9,0.0,3.0,Santos
+Gabriel,9,14.3,18.25,Flamengo
+Yuri,9,0.0,1.0,Bahia
+Léo Pereira,9,1.1,8.84,Athlético-PR
+Patrick,9,5.0,8.92,Internacional
+Rafinha,9,0.0,4.0,CSA
+Guilherme Parede,9,0.0,4.73,Internacional
+Charles,9,0.0,4.0,Ceará
+Neilton,9,0.0,6.84,Internacional
+Clayson,9,0.0,9.63,Corinthians
+Max Walef,9,0.0,1.0,Fortaleza
+Diego Tavares,9,0.0,3.0,Fortaleza
+Rafinha,9,0.0,3.07,Goiás
+Bruno Melo,9,0.0,3.09,Fortaleza
+Fernando Sobral,9,2.2,5.64,Ceará
+Romarinho,9,1.4,4.09,Fortaleza
+Danilo Barcelos,9,13.4,6.26,Vasco
+Valdo,9,-0.3,2.7,Ceará
+Nico López,9,6.1,15.29,Internacional
+Lucas Romero,9,-2.4,3.2,Cruzeiro
+Ricardinho,9,4.2,5.89,Ceará
+Igor Fernandes,9,2.0,3.59,Avaí
+Lucas Cândido,9,0.0,2.0,Atlético-MG
+Alex Silva,9,0.0,4.35,Avaí
+Euller ,9,0.0,4.0,CSA
+Alberto Valentim,9,0.0,7.0,Avaí
+Abner,9,0.9,3.2,Athlético-PR
+Henrique,9,0.0,3.57,Vasco
+Lucas Frigeri,9,0.0,5.0,Avaí
+Marcos Felipe ,9,0.0,2.0,Fluminense
+Berrío ,9,0.0,6.04,Flamengo
+Uilson,9,0.0,3.0,Atlético-MG
+Alex Santana,9,4.1,9.94,Botafogo
+João Paulo,9,0.0,2.0,Santos
+Aylon,9,1.7,2.77,Chapecoense
+Mosquera,9,0.0,2.69,Avaí
+Natanael,9,0.0,6.0,Internacional
+Valdívia,9,2.2,3.91,Vasco
+Léo,9,0.0,5.0,São Paulo
+Luanderson ,9,0.0,2.47,Avaí
+Wanderson,9,0.0,3.0,Bahia
+Hyoran,9,0.0,4.32,Palmeiras
+Everton Felipe,9,1.6,2.6,São Paulo
+Victor Luis,9,0.0,7.0,Palmeiras
+Borja,9,0.0,7.0,Palmeiras
+Pablo Dyego,9,0.0,2.17,Fluminense
+Pedro Rocha,9,3.3,10.97,Cruzeiro
+Luan,9,0.0,10.15,Grêmio
+Everton,9,0.0,17.31,Grêmio
+Raniel,9,0.0,5.94,São Paulo
+João Paulo,9,1.5,4.58,Avaí
+Tchê Tchê,9,0.0,3.74,São Paulo
+Gustavo,9,0.0,3.61,Corinthians
+Matheus Rossetto,9,0.0,3.6,Athlético-PR
+Ewandro,9,-2.5,2.46,Fluminense
+Richard,9,0.0,3.78,Vasco
+José Welison,9,0.0,4.6,Atlético-MG
+Emerson Santos,9,0.0,5.81,Internacional
+Kannemann,9,0.0,14.7,Grêmio
+Jordi,9,14.0,10.74,CSA
+Nathan,9,0.0,5.07,Atlético-MG
+Soteldo,9,2.3,6.01,Santos
+Zeca,9,3.0,6.75,Internacional
+Leonardo,9,5.2,6.36,Grêmio
+Gabriel,9,2.5,8.63,Botafogo
+Pedro Henrique,9,0.0,8.82,Athlético-PR
+Tréllez,9,0.0,6.0,Internacional
+Caíque Sá,9,0.0,3.03,Chapecoense
+Yago Felipe,9,5.9,4.34,Goiás
+Vitor Bueno,9,0.0,5.39,São Paulo
+Thaciano,9,4.4,4.24,Grêmio
+Jorge,9,10.0,14.9,Santos
+Gustavo Scarpa,9,-0.3,2.49,Palmeiras
+Yuri,9,-0.8,1.98,Botafogo
+Daniel Guedes ,9,0.3,3.78,Goiás
+Sornoza,9,0.0,3.83,Corinthians
+Arrascaeta,9,0.0,13.35,Flamengo
+Paulo Ricardo,9,0.0,3.0,Goiás
+Gabriel Dias,9,0.7,4.04,Fortaleza
+Leandro Carvalho,9,2.0,10.1,Ceará
+Ángel Romero,9,0.0,6.0,Corinthians
+Marlon,9,0.0,4.23,Fortaleza
+Bruno Sávio,9,0.0,2.0,Avaí
+Jean,9,0.0,4.1,Botafogo
+Iago Maidana,9,0.0,3.19,Atlético-MG
+Caju,9,0.0,3.0,Santos
+Gustavo Ferrareis,9,0.0,3.07,Avaí
+Saulo,9,0.0,3.0,Botafogo
+Dodi,9,0.0,3.0,Fluminense
+Igor Rabello,9,2.1,8.92,Atlético-MG
+Bruno Pacheco,9,0.0,12.2,Chapecoense
+Bruno Ramires,9,0.0,3.81,CSA
+Bruno Henrique,9,2.5,18.07,Flamengo
+Vinícius Tanque,9,0.0,2.0,Botafogo
+Crysan,9,0.0,3.0,Athlético-PR
+David,9,0.0,4.8,Cruzeiro
+Kunde,9,-2.5,0.75,Avaí
+Moisés,9,4.4,13.18,Bahia
+Yuri Lima,9,-1.1,1.84,Fluminense
+Léo Sena,9,0.0,6.58,Goiás
+Luiz Fernando ,9,0.2,3.64,Botafogo
+Getúlio,9,-1.3,6.02,Avaí
+Fabrício Bruno,9,0.0,5.0,Cruzeiro
+Lucas Mineiro,9,-0.3,6.02,Vasco
+Klaus,9,0.0,4.0,Internacional
+Elias,9,0.0,2.0,Chapecoense
+Iago,9,0.0,2.0,Bahia
+Marcinho,9,0.0,6.08,Botafogo
+Jean,9,-2.0,3.32,São Paulo
+Flávio,9,1.9,2.52,Bahia
+Fernandinho,9,0.0,2.0,Bahia
+Everaldo ,9,3.5,3.34,Corinthians
+Gustavo Blanco,9,0.0,9.0,Atlético-MG
+Pepê,9,1.5,3.49,Grêmio
+Rony,9,5.0,13.76,Athlético-PR
+Lucas Perri,9,0.0,2.0,São Paulo
+Leandro Barcia,9,12.8,10.68,Goiás
+Nino,9,0.3,2.22,Fluminense
+Leonardo Valencia,9,0.0,3.74,Botafogo
+Rodriguez,9,7.2,5.3,Grêmio
+Marlon,9,0.0,4.0,Fluminense
+Felipe,9,3.4,5.83,Fortaleza
+Matheus Alves,9,0.0,1.0,Goiás
+André Luís,9,15.7,6.64,Fortaleza
+David Duarte,9,0.0,8.03,Goiás
+João Paulo,9,0.0,3.0,Ceará
+Caíque França,9,0.0,3.0,Corinthians
+Arboleda,9,0.0,6.53,São Paulo
+Kevin ,9,0.0,7.49,Goiás
+Everson,9,0.0,3.0,Bahia
+Arthur Cabral,9,0.0,8.0,Palmeiras
+Giovanny ,9,0.0,2.0,Goiás
+Ramón Martínez,9,0.0,5.0,Atlético-MG
+Juninho,9,0.0,4.0,Bahia
+Raul,9,5.1,6.09,Vasco
+Odair Hellmann,9,5.71,10.71,Internacional
+Renato Kayzer,9,0.8,1.74,Chapecoense
+Mateus Vital,9,0.0,6.56,Corinthians
+Ronaldo,9,0.0,3.93,Flamengo
+Deyverson,9,8.4,10.57,Palmeiras
+Thiago Santos,9,0.0,3.0,Chapecoense
+Jobson,9,0.0,4.0,Santos
+Alan Cardoso,9,0.0,3.0,Santos
+Lucas Veríssimo,9,0.0,8.27,Santos
+Fernando Medeiros,9,0.0,2.0,Bahia
+Joel Carli,9,2.1,7.1,Botafogo
+Andrey,9,1.9,5.64,Vasco
+Michael,9,0.0,1.0,Atlético-MG
+Marcos Júnior,9,5.7,4.11,Vasco
+Matheus Fernandes,9,0.0,5.0,Palmeiras
+Júnior Brandão,9,0.0,1.81,Goiás
+Daniel,9,-0.9,4.07,Fluminense
+Keiller,9,0.0,2.0,Internacional
+Cleiton,9,0.0,2.0,Atlético-MG
+Carlos Eduardo,9,0.0,5.0,Palmeiras
+Léo Duarte,9,0.0,4.4,Flamengo
+William Oliveira,9,0.0,3.0,Ceará
+Diego Pituca,9,4.2,3.61,Santos
+Felipe Vizeu,9,-0.2,2.41,Grêmio
+Alessandro Vinícius,9,0.0,1.0,Atlético-MG
+Raphael Veiga,9,0.0,8.87,Palmeiras
+Felipinho,9,0.0,2.0,Bahia
+Ribamar,9,0.0,2.64,Vasco
+Jonatan Gomez,9,1.2,3.3,CSA
+Juninho Capixaba,9,7.9,8.0,Grêmio
+Jefferson,9,-1.1,9.78,Goiás
+Bill,9,0.0,2.0,Athlético-PR
+Pedro,9,0.0,12.31,Fluminense
+Marco Antônio,9,0.0,3.0,Bahia
+Yan Sasse,9,0.0,3.9,Vasco
+Thalles,9,0.0,2.0,Goiás
+Max,9,0.0,1.0,Bahia
+Matheus Jesus,9,0.0,5.0,Corinthians
+Marcinho,9,0.0,2.04,Goiás
+Orejuela,9,0.0,5.55,Cruzeiro
+Gregore,9,0.0,11.2,Bahia
+Artur,9,0.0,10.16,Bahia
+Lucas Paes,9,0.0,2.0,São Paulo
+Igor Vinícius,9,-0.6,6.4,São Paulo
+Vico,9,0.0,1.0,Grêmio
+Aguilar,9,4.4,4.71,Santos
+Marcelo Benevenuto,9,0.0,4.28,Botafogo
+Orinho,9,0.0,3.0,Santos
+Araruna,9,0.0,4.11,Fortaleza
+Trauco,9,0.0,5.64,Flamengo
+Gustavo Bochecha,9,0.0,5.6,Botafogo
+Piris da Motta,9,2.5,3.77,Flamengo
+Maurício,9,0.0,3.0,Avaí
+Quintero,9,2.4,2.73,Fortaleza
+Geovane Itinga,9,0.0,2.0,Bahia
+Hugo Borges,9,0.0,2.0,Vasco
+Daniel,9,0.0,3.0,Internacional
+Allan,9,-5.1,0.9,Fluminense
+Arthur Gomes,9,1.6,3.55,Chapecoense
+Victor Lindenberg,9,0.0,2.0,Botafogo
+Léo Santos,9,0.0,6.0,Fluminense
+Léo Lopes,9,0.0,1.0,Avaí
+Yony González,9,0.0,11.25,Fluminense
+Dudu,9,0.0,3.0,Internacional
+Janderson,9,0.0,1.23,Corinthians
+Lepu,9,0.0,2.0,Bahia
+Shaylon,9,0.9,3.46,Bahia
+Daniel,9,0.0,1.0,Atlético-MG
+Rogério Ceni,9,3.46,7.14,Fortaleza
+Marcos Calazans,9,1.9,2.38,São Paulo
+Frazan,9,0.0,2.38,Fluminense
+Fernando,9,0.0,1.0,Atlético-MG
+Hiago,9,0.0,2.0,Chapecoense
+Dawhan,9,0.0,6.69,CSA
+Bryan,9,6.3,2.48,Chapecoense
+Tomás Andrade,9,0.0,5.04,Athlético-PR
+Rafael Santos,9,0.0,1.0,Cruzeiro
+Lucas Kal,9,0.0,1.0,São Paulo
+Rafael,9,0.0,0.73,Flamengo
+Rodrigo Santana,9,5.26,10.89,Atlético-MG
+Vitão,9,0.0,2.0,Palmeiras
+Fessin,9,0.0,2.0,Corinthians
+Erick,9,0.0,1.22,Athlético-PR
+Rodrigo Alves,9,0.0,2.0,Bahia
+Tiago Nunes,9,1.66,8.93,Athlético-PR
+Kendy,9,0.0,2.0,Chapecoense
+Gabriel Batista,9,0.0,4.0,Flamengo
+Jaderson,9,0.0,1.0,Athlético-PR
+Gabriel Lima,9,0.0,3.0,Avaí
+Caio Henrique,9,5.2,6.11,Fluminense
+Wenderson,9,0.0,3.4,Botafogo
+Bruno Guimarães,9,-0.1,11.88,Athlético-PR
+Mariano Vázquez,9,0.0,4.0,Fortaleza
+Lucas Silva,9,0.0,2.0,Flamengo
+Pedrinho,9,0.0,11.99,Corinthians
+Kanu,9,0.0,1.0,Botafogo
+Jean Pyerre,9,7.9,10.13,Grêmio
+Diego Torres,9,0.0,4.46,Chapecoense
+Cláudio Vitor,9,0.0,1.0,Avaí
+Lourenço,9,0.9,4.19,Avaí
+Caio,9,0.0,0.74,Athlético-PR
+Lucas Hernández,9,0.0,4.0,Atlético-MG
+Michael,9,3.0,6.08,Goiás
+Marquinhos,9,0.0,1.0,Atlético-MG
+Alex Nagib,9,0.0,1.0,Athlético-PR
+Fernando,9,0.3,3.56,Botafogo
+Diego,9,0.0,1.0,Botafogo
+Wesley,9,0.0,2.0,Avaí
+Robinho,9,0.0,1.96,CSA
+Mascarenhas,9,-2.3,1.75,Fluminense
+Tiepo,9,1.0,13.11,Chapecoense
+Igor Cássio,9,0.0,1.29,Botafogo
+Ricardo,9,9.7,8.91,Vasco
+Brenner,9,2.7,2.67,Fluminense
+Richard Franco,9,0.0,2.0,Avaí
+Chará,9,3.8,11.62,Atlético-MG
+Luan Pereira,9,0.0,2.6,Avaí
+Thuler,9,7.5,3.47,Flamengo
+Igor Gomes,9,-1.8,0.75,São Paulo
+Patrick,9,0.0,1.5,Grêmio
+Lincoln,9,0.0,3.82,Flamengo
+Lucas Campos,9,1.5,1.18,Botafogo
+Rickson,9,0.0,1.9,Botafogo
+Kleber,9,0.0,2.0,Flamengo
+Matheus Matias,9,0.0,1.79,Avaí
+Felipe Pires,9,0.0,5.0,Palmeiras
+Filipe,9,0.0,2.0,Corinthians
+Yuri Alberto,9,0.0,2.0,Santos
+Guilherme Guedes,9,0.0,3.0,Grêmio
+Matheus Henrique,9,0.0,3.9,Grêmio
+Gabriel Sara,9,0.0,1.0,São Paulo
+Brenno,9,0.0,2.0,Grêmio
+Esteves,9,0.0,1.0,Palmeiras
+Emanuel,9,0.0,2.0,Grêmio
+Pachu,9,0.0,1.0,Botafogo
+Liziero,9,0.0,4.74,São Paulo
+Felippe Cardoso,9,0.0,3.0,Ceará
+Matheus Silva,9,0.0,3.0,Bahia
+Rony,9,0.0,2.0,São Paulo
+Sarrafiore,9,0.0,3.49,Internacional
+Jô,9,0.0,1.0,Avaí
+Guga,9,0.0,8.54,Atlético-MG
+Helerson,9,0.0,2.0,Botafogo
+Igor Campos,9,0.0,1.0,Chapecoense
+Ricardo,9,0.0,4.15,Avaí
+Gustavo,9,0.0,3.0,Avaí
+Bruno Silva,9,0.0,2.8,Atlético-MG
+Thonny Anderson,9,0.0,2.57,Athlético-PR
+Lucas Lourenço,9,0.0,2.0,Santos
+Hugo Moura,9,0.0,2.97,Flamengo
+Joelson,9,0.0,1.0,CSA
+Robson Bambu,9,0.0,4.35,Athlético-PR
+Nonato,9,4.4,8.88,Internacional
+Ramon,9,0.0,2.0,Flamengo
+Matheus Dantas,9,0.0,1.25,Flamengo
+Demethryus,9,0.0,1.0,Athlético-PR
+Ulisses,9,0.0,1.0,Vasco
+Vitor Gabriel,9,0.0,2.0,Flamengo
+Felipe Jonatan,9,4.5,8.64,Santos
+Xandão,9,0.0,2.0,Bahia
+Caio,9,0.0,2.0,Fluminense
+Bruninho,9,0.0,1.69,Atlético-MG
+Lucas Santos,9,0.0,5.0,Vasco
+Marrony,9,3.1,12.48,Vasco
+Miranda,9,0.0,2.57,Vasco
+Alerrandro,9,13.5,7.98,Atlético-MG
+Rafael França,9,0.0,2.0,Vasco
+João Pedro,9,0.0,1.0,Vasco
+Diego,9,0.0,1.0,São Paulo
+Carlos Augusto,9,0.0,5.59,Corinthians
+Gonzalo Carneiro,9,0.0,5.0,São Paulo
+Welligton Rocha,9,0.0,1.0,Athlético-PR
